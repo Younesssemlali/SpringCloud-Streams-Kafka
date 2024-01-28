@@ -1,0 +1,15 @@
+
+
+![zookeeperjpg](https://github.com/Yasserkb/kafkaProject-/assets/61334314/64e039f4-9fe1-4802-ba62-b565cdc4d1a8)
+![sendingMessagesToTheCosumerFromTheEndPoint](https://github.com/Yasserkb/kafkaProject-/assets/61334314/4dd49b96-e50c-48e5-9288-2ed9a032f6a1)
+![R4](https://github.com/Yasserkb/kafkaProject-/assets/61334314/87dbffd5-5da7-4b19-9519-c54e2a0ac7d0)
+![R3](https://github.com/Yasserkb/kafkaProject-/assets/61334314/d8f87922-97a6-4949-91dd-2ee995a040d6)
+![R2](https://github.com/Yasserkb/kafkaProject-/assets/61334314/d440f08c-b635-4f26-bd00-8074eb23124f)
+![producer](https://github.com/Yasserkb/kafkaProject-/assets/61334314/2a2d18a8-0c56-4881-8dcb-9525a5fc88ee)
+![kafka-server](https://github.com/Yasserkb/kafkaProject-/assets/61334314/eb9bbffd-e4cc-4cdd-82ae-38b3c53ccc51)
+![kafka-server - Copy](https://github.com/Yasserkb/kafkaProject-/assets/61334314/6cc4fe2a-960e-404d-8487-17de2588f1e7)
+![consumer](https://github.com/Yasserkb/kafkaProject-/assets/61334314/a43bc5e6-44ae-4f31-a564-5d3790a429da)
+![consumer - Copy](https://github.com/Yasserkb/kafkaProject-/assets/61334314/ae66120e-f84b-41af-a380-fa3a2f5ba351)
+![analytics](https://github.com/Yasserkb/kafkaProject-/assets/61334314/d60a024a-a01a-495a-aefa-eb74118f0991)
+![graph](https://github.com/Yasserkb/kafkaProject-/assets/61334314/ccec5902-6ce3-4ba7-97b5-b118a1e46b0b)
+![datainTerminal](https://github.com/Yasserkb/kafkaProject-/assets/61334314/40b26b27-cb2a-4bd3-b354-213e18207cf8)
